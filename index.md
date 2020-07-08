@@ -2,3 +2,7 @@
 
 
 [SUP Guide](https://sup-guide.netlify.app/)
+
+https://newswithfriends.com
+
+https://docdogs.com
