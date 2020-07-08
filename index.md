@@ -1,3 +1,4 @@
 ## Welcome
 
-https://sup-guide.netlify.app/
+http://github.com - automatic!
+[GitHub](http://github.com)
